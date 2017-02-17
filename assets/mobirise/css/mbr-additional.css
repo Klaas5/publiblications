@@ -1,7 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 
 
 
@@ -418,7 +423,7 @@ h6,
 }
 #header1-1 .mbr-section-lead B {
   text-align: center;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   color: #ffffff;
   font-size: 72px;
 }
@@ -438,6 +443,7 @@ h6,
 #index-menu-0 .link,
 #index-menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #index-menu-0 .link {
   font-size: 0.8rem;
@@ -486,6 +492,18 @@ h6,
 #index-msg-box8-0 .mbr-section-title,
 #index-msg-box8-0 p {
   color: #fff;
+}
+#index-msg-box8-0 .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#index-msg-box8-0 .lead P {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#index-content1-0 P {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#index-content6-0 P {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #index-social-buttons4-0 .mbr-section-title,
 #index-social-buttons4-0 .btn-social {
